@@ -1,2 +1,0 @@
-# UniSky
-UniSky About Log
